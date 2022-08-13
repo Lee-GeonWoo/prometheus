@@ -3,5 +3,5 @@
 $ kubectl apply -f prometheus/
 ```
 
-#### Prometheus port: 30000
-#### Grafana port: 30001
+- Prometheus port: <b>30000</b>
+- Grafana port: <b>30001</b>
