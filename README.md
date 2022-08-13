@@ -1,6 +1,6 @@
 ## Install prometheus in Kubernetes with Grafana
 ```
-kubectl apply -f prometheus/
+$ kubectl apply -f prometheus/
 ```
 
 #### Prometheus port: 30000
